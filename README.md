@@ -52,8 +52,6 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
 **Penjelasan:**
 Pada langkah ini, dibuat tiga kotak menggunakan elemen `<div>` yang diberi class `box`. Properti CSS `float: left` digunakan agar kotak bisa tersusun sejajar ke samping.
 
-**Hasil Screenshot:**
-![Box Element](https://github.com/tir890/Lab4Web/blob/7c9832104dc8ad3b3d7ea3c47cd013d9feca3964/Screenshoot%20Lab4Web/1%20done.png)
 ---
 
 ### Langkah 2 — Menambahkan Padding, Border, dan Shadow
@@ -81,9 +79,6 @@ Pada langkah ini, dibuat tiga kotak menggunakan elemen `<div>` yang diberi class
 * `border` memberi garis tepi.
 * `box-shadow` menambahkan efek bayangan agar tampilan lebih menarik.
 
-📸 **Hasil Screenshot:**
-*(tempelkan hasil kotak dengan efek bayangan di sini)*
-
 ---
 
 ### Langkah 3 — Menempatkan Kotak di Tengah Halaman
@@ -107,12 +102,12 @@ Pada langkah ini, dibuat tiga kotak menggunakan elemen `<div>` yang diberi class
 **Penjelasan:**
 Dengan menambahkan `margin: auto`, posisi kotak akan berada di tengah halaman secara horizontal.
 
-📸 **Hasil Screenshot:**
-*(tempelkan hasil kotak di tengah halaman di sini)*
+**Hasil Screenshot:**
+![Box Element](https://github.com/tir890/Lab4Web/blob/7c9832104dc8ad3b3d7ea3c47cd013d9feca3964/Screenshoot%20Lab4Web/1%20done.png)
 
 ---
 
-## 💻 **Bagian 2 — Layout Web Sederhana**
+## **Bagian 2 — Layout Web Sederhana**
 
 ### Langkah 1 — Membuat Struktur Dasar HTML
 
@@ -137,9 +132,6 @@ Dengan menambahkan `margin: auto`, posisi kotak akan berada di tengah halaman se
 **Penjelasan:**
 Membuat kerangka awal halaman web dan menghubungkan file CSS eksternal dengan tag `<link>`.
 
-📸 **Hasil Screenshot:**
-*(kosong atau tampilan awal browser)*
-
 ---
 
 ### Langkah 2 — Menambahkan Header dan Navigasi
@@ -162,8 +154,7 @@ Membuat kerangka awal halaman web dan menghubungkan file CSS eksternal dengan ta
 **Penjelasan:**
 Bagian ini membuat header dan navigasi agar halaman memiliki identitas serta tautan antar menu.
 
-📸 **Hasil Screenshot:**
-*(tampilkan hasil header dan navbar biru)*
+**Hasil Screenshot:**
 
 ---
 
@@ -182,8 +173,8 @@ Bagian ini membuat header dan navigasi agar halaman memiliki identitas serta tau
 **Penjelasan:**
 Hero section berfungsi untuk memperkenalkan isi halaman dan menarik perhatian pengguna dengan teks utama dan tombol aksi.
 
-📸 **Hasil Screenshot:**
-*(tampilkan area abu-abu dengan teks “Hello World!”)*
+**Hasil Screenshot:**
+![Hero Section](https://github.com/tir890/Lab4Web/blob/f195f7e95fefe79c6412afb0b1570161db093dd4/Screenshoot%20Lab4Web/3%20home%20html.png)
 
 ---
 
@@ -200,9 +191,6 @@ Hero section berfungsi untuk memperkenalkan isi halaman dan menarik perhatian pe
 
 **Penjelasan:**
 Membuat struktur utama halaman yang terdiri dari konten (`main`) dan sidebar (`aside`).
-
-📸 **Hasil Screenshot:**
-*(tampilkan dua kolom kosong di browser)*
 
 ---
 
@@ -234,9 +222,6 @@ Membuat struktur utama halaman yang terdiri dari konten (`main`) dan sidebar (`a
 **Penjelasan:**
 Bagian ini menampilkan tiga kotak sejajar serta artikel fitur dengan gambar dan teks.
 
-📸 **Hasil Screenshot:**
-*(tampilkan tiga kotak warna sejajar)*
-
 ---
 
 ### Langkah 6 — Menambahkan Sidebar
@@ -263,9 +248,6 @@ Bagian ini menampilkan tiga kotak sejajar serta artikel fitur dengan gambar dan 
 **Penjelasan:**
 Sidebar berisi widget seperti link tambahan atau teks informasi. Letaknya di sebelah kanan halaman.
 
-📸 **Hasil Screenshot:**
-*(tampilkan sidebar di sisi kanan halaman)*
-
 ---
 
 ### Langkah 7 — Menambahkan Footer
@@ -281,15 +263,12 @@ Sidebar berisi widget seperti link tambahan atau teks informasi. Letaknya di seb
 **Penjelasan:**
 Footer berfungsi sebagai penutup halaman web dan memuat informasi hak cipta.
 
-📸 **Hasil Screenshot:**
-*(tampilkan hasil akhir layout lengkap)*
-
 ---
 
-## ✅ **Hasil Akhir**
+## **Hasil Akhir**
 
 📸 **Tampilan akhir halaman web:**
-*(tempelkan screenshot final layout yang udah rapi — sesuai modul dosen)*
+![Hasil Akhir](https://github.com/tir890/Lab4Web/blob/f195f7e95fefe79c6412afb0b1570161db093dd4/Screenshoot%20Lab4Web/7%20home%20html.png)
 
 ---
 

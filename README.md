@@ -1,8 +1,8 @@
-## 🎓 **LAPORAN PRAKTIKUM 4 — BOX ELEMENT & LAYOUT WEB SEDERHANA**
+## **LAPORAN PRAKTIKUM 4 — BOX ELEMENT & LAYOUT WEB SEDERHANA**
 
 ---
 
-### 🧾 **Identitas Mahasiswa**
+### **Identitas Mahasiswa**
 Nama: Tiara Hayatul Khoir
 
 NIM: 312410474
@@ -15,7 +15,7 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
 
 ---
 
-## 🧱 **Bagian 1 — Box Element**
+## **Bagian 1 — Box Element**
 
 ### Langkah 1 — Membuat File `lab4_box.html`
 
@@ -52,9 +52,8 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
 **Penjelasan:**
 Pada langkah ini, dibuat tiga kotak menggunakan elemen `<div>` yang diberi class `box`. Properti CSS `float: left` digunakan agar kotak bisa tersusun sejajar ke samping.
 
-📸 **Hasil Screenshot:**
-*(tempatkan hasil tampilan 3 kotak biru di sini)*
-
+**Hasil Screenshot:**
+![Box Element](https://github.com/tir890/Lab4Web/blob/7c9832104dc8ad3b3d7ea3c47cd013d9feca3964/Screenshoot%20Lab4Web/1%20done.png)
 ---
 
 ### Langkah 2 — Menambahkan Padding, Border, dan Shadow

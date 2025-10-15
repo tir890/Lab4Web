@@ -1,0 +1,238 @@
+/* import google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body dan container */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #5a5a5a;
+  background-color: #fff;
+}
+
+#container {
+  width: 980px;
+  margin: 0 auto;
+  box-shadow: 0 0 1em #cccccc;
+  background: white;
+}
+
+/* Header */
+header {
+  padding: 20px;
+}
+header h1 {
+  margin: 10px 0;
+  color: #b5b5b5;
+}
+
+/* Navigasi */
+nav {
+  background-color: #1f5faa;
+}
+nav a {
+  padding: 15px 30px;
+  display: inline-block;
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a.active,
+nav a:hover {
+  background-color: #2b83ea;
+}
+
+/* Hero section */
+#hero {
+  background-color: #e4e4e5;
+  padding: 60px 40px;
+  margin-bottom: 40px;
+  border-radius: 4px;
+}
+#hero h1 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+#hero p {
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 20px;
+  color: #555;
+}
+.btn-primary {
+  background-color: #1f5faa;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+.btn-primary:hover {
+  background-color: #2b83ea;
+}
+
+/* Wrapper dan konten utama */
+#wrapper {
+  margin: 0;
+}
+#main {
+  float: left;
+  width: 640px;
+  padding: 20px;
+}
+
+/* Sidebar */
+#sidebar {
+  float: left;
+  width: 260px;
+  padding: 20px;
+}
+
+/* Widget */
+.widget-box {
+  border: 1px solid #eee;
+  margin-bottom: 20px;
+  background: #fff;
+}
+.widget-box .title {
+  padding: 10px 16px;
+  background-color: #428bca;
+  color: #fff;
+  font-weight: 600;
+}
+.widget-box ul {
+  list-style-type: none;
+}
+.widget-box li {
+  border-bottom: 1px solid #eee;
+}
+.widget-box li a {
+  padding: 10px 16px;
+  color: #333;
+  display: block;
+  text-decoration: none;
+}
+.widget-box li:hover a {
+  background-color: #eee;
+}
+.widget-box p {
+  padding: 15px;
+  line-height: 25px;
+}
+
+/* Box Section (3 kotak heading) */
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.box {
+  background: none;
+  text-align: center;
+  width: 32%;
+  padding: 10px;
+}
+.image-circle {
+  border-radius: 50%;
+}
+.box h3 {
+  margin: 15px 0 10px;
+}
+.box p {
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 15px;
+}
+.btn-default {
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 8px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.btn-default:hover {
+  background-color: #e4e4e4;
+}
+
+/* Garis pemisah */
+.divider {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 40px 0;
+}
+
+/* Featurette Section (artikel bawah) */
+.entry {
+  margin-bottom: 40px;
+  overflow: auto;
+}
+.entry h2 {
+  margin-bottom: 15px;
+  font-size: 22px;
+  color: #333;
+}
+.entry img {
+  float: left;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+}
+.entry.alt img {
+  float: right;
+  margin-left: 20px;
+  margin-right: 0;
+}
+.entry p {
+  line-height: 25px;
+  font-size: 15px;
+  text-align: justify;
+  color: #444;
+}
+
+/* Formulir kontak */
+.form-kontak input,
+.form-kontak textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.form-kontak input:focus,
+.form-kontak textarea:focus {
+  outline: none;
+  border-color: #1f5faa;
+  box-shadow: 0 0 4px #1f5faa;
+}
+.form-kontak button {
+  background: #1f5faa;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.form-kontak button:hover {
+  background: #2b83ea;
+}
+
+/* Footer */
+footer {
+  clear: both;
+  background-color: #1d1d1d;
+  padding: 20px;
+  color: #eee;
+  text-align: center;
+}
